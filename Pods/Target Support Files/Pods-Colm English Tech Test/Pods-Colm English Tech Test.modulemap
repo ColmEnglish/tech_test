@@ -1,0 +1,6 @@
+framework module Pods_Colm_English_Tech_Test {
+  umbrella header "Pods-Colm English Tech Test-umbrella.h"
+
+  export *
+  module * { export * }
+}
